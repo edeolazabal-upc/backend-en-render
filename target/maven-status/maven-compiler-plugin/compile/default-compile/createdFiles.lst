@@ -1,0 +1,13 @@
+com\upc\ejpc1datajpaapi\repository\AnuncioRepository.class
+com\upc\ejpc1datajpaapi\dto\TotalRecaudadoDto.class
+com\upc\ejpc1datajpaapi\controller\AnuncioController.class
+com\upc\ejpc1datajpaapi\service\AnuncioService.class
+com\upc\ejpc1datajpaapi\controller\AgenciaController.class
+com\upc\ejpc1datajpaapi\model\Anuncio.class
+com\upc\ejpc1datajpaapi\dto\AnuncioDto.class
+com\upc\ejpc1datajpaapi\dto\RecaudadoPorAgenciaDto.class
+com\upc\ejpc1datajpaapi\EjPc1DatajpaApiApplication.class
+com\upc\ejpc1datajpaapi\dto\AgenciaDto.class
+com\upc\ejpc1datajpaapi\service\AgenciaService.class
+com\upc\ejpc1datajpaapi\model\Agencia.class
+com\upc\ejpc1datajpaapi\repository\AgenciaRepository.class

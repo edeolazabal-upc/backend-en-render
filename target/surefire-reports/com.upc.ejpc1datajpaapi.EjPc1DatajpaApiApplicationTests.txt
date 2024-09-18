@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.upc.ejpc1datajpaapi.EjPc1DatajpaApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.14 s -- in com.upc.ejpc1datajpaapi.EjPc1DatajpaApiApplicationTests
